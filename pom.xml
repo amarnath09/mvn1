@@ -56,7 +56,8 @@
   </dependencies>
 
   <build>
-    <finalName>amar</finalName>
+    <finalName>abhi</finalName>
+
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
