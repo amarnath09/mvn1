@@ -56,7 +56,7 @@
   </dependencies>
 
   <build>
-    <finalName>abhi</finalName>
+    <finalName>ammu</finalName>
     <sourceDirectory>src/java</sourceDirectory>
     <outputDirectory>target/classes</outputDirectory>
     <plugins>
